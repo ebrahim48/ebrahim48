@@ -13,113 +13,110 @@
  
 ---
  
-## 💫 About Me
  
-I'm a passionate Full-Stack Backend Focused Developer from Bangladesh 🇧🇩. After completing multiple large-scale projects, I’m now working mainly on the backend for both web and app platforms.
-Learning TypeScript alongside building backend-focused SaaS systems helped me understand scalable architecture, type safety, and production-level problem solving.
-Less theory, more real-world backend engineering.
+## 💫 About Me
+
+I'm a passionate Flutter Mobile Application Developer from Bangladesh 🇧🇩 with experience building clean, scalable, and user-friendly cross-platform mobile applications.
+
+I specialize in Flutter app development, responsive UI design, REST API integration, authentication systems, payment integration, state management, and real-time mobile app features.
+
+I enjoy transforming ideas into high-performance mobile applications with clean architecture and maintainable code.
+
+Less theory, more real-world app development.
  
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
  
 ```JavaScript
 const reaz = {
   pronouns: "He/Him",
-  code: ["JavaScript", "TypeScript"],
-  askMeAbout: [
-    "Backend-focused full-stack development",
-    "Realtime systems & event-driven architecture",
-    "MERN & modern backend architecture",
-    "REST APIs & system design",
-    "Authentication, authorization & security",
-    "Email systems, file handling & AI-powered workflows"
+
+  code: [
+    "Dart",
+    "Flutter",
+    "Java",
+    "C++",
+    "C Programming"
   ],
+
+  askMeAbout: [
+    "Flutter Mobile App Development",
+    "GetX State Management",
+    "REST API Integration",
+    "Firebase",
+    "Authentication Systems",
+    "Payment Integration",
+    "Real-time Features",
+    "Clean App Architecture"
+  ],
+
   technologies: {
-    frontEnd: {
-      js: ["React", "Next.js"],
-      css: ["Tailwind CSS", "DaisyUI", "Bootstrap"],
-      uiLibraries: ["Framer Motion", "Ant Design (AntD)", "MUI"],
-      stateManagement: ["Redux", "Context API"],
-      forms: ["React Hook Form"],
-      routing: ["React Router"],
-      realtime: ["Socket.io", "WebRTC"],
+    mobileDevelopment: {
+      framework: ["Flutter"],
+      language: ["Dart"],
+      stateManagement: ["GetX", "Provider"],
+      localStorage: ["Hive", "SharedPreferences"],
+      backendIntegration: ["REST API"],
+      authentication: [
+        "Firebase Authentication",
+        "JWT Authentication"
+      ],
+      payment: ["Stripe"],
+      notifications: ["Firebase FCM"],
+      realtime: ["Socket.io"],
+      maps: ["Google Maps"],
     },
-    backEnd: {
-      js: ["Node.js", "Express.js", "NestJS"],
-      ormOdm: ["Prisma", "Mongoose"],
-      databases: ["MongoDB", "PostgreSQL", "MySQL"],
-      cache: ["Redis"],
-      auth: ["JWT", "Firebase Authentication"],
-      api: ["RESTful APIs"],
-      email: ["Nodemailer", "SMTP", "IMAP"],
-      fileHandling: ["Multer", "Cloudinary"],
-      realtime: ["Socket.io", "WebRTC"],
-    },
+
     databases: {
-      noSQL: ["MongoDB (Mongoose)"],
-      sql: ["PostgreSQL", "MySQL"],
+      mobile: ["SQLite", "Hive", "SharedPreferences"],
+      cloud: ["Firebase Firestore"],
     },
-    cloudAndDevOps: {
-      cloudProviders: ["AWS", "DigitalOcean"],
-      containerization: ["Docker"],
-      ciCd: ["CI/CD Pipelines (GitHub Actions)"],
-      deployment: ["Vercel", "Netlify", "Render"],
-    },
+
     devTools: [
+      "Android Studio",
+      "VS Code",
       "Git",
       "GitHub",
-      "Postman",
-      "VS Code",
-      "Linux"
-    ],
-    misc: [
-      "Realtime communication & presence systems",
-      "Event-driven architecture",
-      "RBAC & permission systems",
-      "Email queues & background jobs",
-      "Secure file upload & media storage",
-      "Pagination, filtering & search",
-      "Performance & query optimization",
+      "Postman"
     ],
   },
-  aiIntegration: [
-    "Frontline AI integration in production systems",
-    "AI-powered email drafting & workflow automation",
-    "Prompt control, validation & hallucination management"
-  ],
+
   currentLearning: [
-    "Advanced NestJS patterns",
-    "Scalable real-time systems",
-    "Cloud infrastructure & DevOps",
-    "Secure and observable CI/CD pipelines"
+    "Advanced Flutter Architecture",
+    "Clean Architecture",
+    "State Management",
+    "Performance Optimization",
+    "Flutter Animations",
+    "Real-time Mobile Features"
   ],
+
   projects: [
-    "Twvinfast (AI Email Assistant SaaS)",
-    "Frontline (Advanced Personal Portfolio with Dashboard)",
-    "Green Circle",
-    "Marathon Zone",
-    "Event Hub"
+    "Music Streaming App",
+    "Salon Booking App",
+    "Event Management App",
+    "Subscription-Based Apps",
+    "Real-time Mobile Applications"
   ],
+
   currentFocus:
-    "Building scalable, secure, real-time-enabled cloud-native applications with strong backend systems and AI integration",
+    "Building scalable, responsive, and production-ready Flutter mobile applications",
+
   funFact:
-    "I study political science and aim to merge technology and AI for meaningful real-world impact!",
+    "I love turning ideas into beautiful mobile applications using Flutter!";
 };
 ```
  
 🎯 **What I do:**
- 
-- Build clean, scalable backend-focused full-stack applications for web & apps
-- Design REST APIs, authentication systems, and production-ready architectures
-- Implement role-based access control systems and secure user workflows
-- Develop real-time communication features using WebRTC and Socket-based systems
-- Build QR-based verification systems for check-ins, lead collection, and event interactions
-- Work with modern technologies: JavaScript, TypeScript, React, Next.js, Node.js, Express.js, MongoDB
-- Use Docker for containerization and environment consistency
-- Implement CI/CD pipelines for automated testing & deployment
-- Deploy and manage applications on AWS and DigitalOcean
-- Design scalable systems with modular backend architecture and maintainable code practices
-- Continuously improve communication, system thinking, and code quality
- 
+
+- Build scalable Flutter mobile applications for Android & iOS
+- Create clean, responsive, and modern mobile app UI
+- Integrate REST APIs and backend services
+- Implement authentication and secure user workflows
+- Develop payment systems and subscription features
+- Build real-time communication features
+- Work with GetX for state management
+- Implement Firebase services and push notifications
+- Optimize app performance and maintain clean architecture
+- Publish apps to Play Store & App Store
  
 🛠 Currently Working On:
  
@@ -138,23 +135,20 @@ const reaz = {
  
  
 📚 Learning Now:
-- Backend scalability & clean architecture
-- AI-integrated SaaS patterns
-- Docker, CI/CD, and production deployments
-- Web security, JWT authentication & authorization
-- Real-time systems using WebRTC and Socket-based communication
-- QR-based verification systems for check-ins, attendee tracking & lead collection
----
+
+- Advanced Flutter Architecture
+- State Management (GetX & Provider)
+- Clean Architecture in Flutter
+- Firebase & Push Notifications
+- Performance Optimization
+- Flutter Animations
+- Real-time Features in Mobile Apps
  
  
 ## 📫 Let’s connect:
  
 - Email: reazul.dev@gmail.com
 - WhatsApp: +8801770807782
- 
-## 🌐 Portfolio:
-- Here is my Personal Portfolio (https://reazul-islam-reaz.vercel.app)
- 
  
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/engineer.reazul.islam.reaz/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reazulislamreaz/)
