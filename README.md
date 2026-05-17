@@ -152,10 +152,7 @@ const reaz = {
  
 
 
- 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reazulislamreaz&layout=compact&theme=github_dark&hide_border=true&langs_count=8%22 width="40%" alt="Top Languages" />
-</p>
+
  
  
 <!-- <p align="center">
