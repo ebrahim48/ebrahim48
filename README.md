@@ -317,6 +317,20 @@ AI-powered chatbot system using:
 
 <div align="center">
 
+
+```md
+<h2 align="center">📅 Contributions in the Last Year</h2>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ebrahim48&theme=github_dark" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=ebrahim48&limit=5&theme=github_dark&combine_all_yearly_contributions=true" />
+</p>
+```
+
+
 ### ⭐ Thanks for visiting my profile!
 
 **Building beautiful mobile applications with Flutter 🚀**
