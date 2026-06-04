@@ -1,163 +1,325 @@
-![I'm a Flutter developer]()
- 
+````md
+![I'm a Flutter Mobile Application Developer](https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Md.%20Ebrahim%20Hossen&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Mobile%20Application%20Developer&descAlignY=58&descAlign=50)
+
 <h1 align="center">
   Hi, I'm Md. Ebrahim Hossen
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
 </h1>
- 
+
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F855A¢er=t… alt="Typing SVG" />
-</a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Flutter+Mobile+Application+Developer;Flutter+%7C+Dart+%7C+Firebase+%7C+GetX;REST+API+%7C+Stripe+%7C+Socket.io;Building+Scalable+Mobile+Applications;Always+Learning+%26+Building" alt="Typing SVG" />
+  </a>
 </p>
- 
+
 ---
- 
- 
+
 ## 💫 About Me
 
-I'm a passionate Flutter Mobile Application Developer from Bangladesh 🇧🇩 with experience building clean, scalable, and user-friendly cross-platform mobile applications.
+I'm **Md. Ebrahim Hossen** — a passionate **Flutter Developer** from Bangladesh 🇧🇩.
 
-I specialize in Flutter app development, responsive UI design, REST API integration, authentication systems, payment integration, state management, and real-time mobile app features.
+I specialize in building **scalable**, **responsive**, and **production-ready mobile applications** for **Android & iOS** using **Flutter**.
 
-I enjoy transforming ideas into high-performance mobile applications with clean architecture and maintainable code.
+I enjoy turning ideas into modern mobile experiences with **clean architecture**, **maintainable code**, and **real-world functionality**.
 
-Less theory, more real-world app development.
- 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
- 
-```JavaScript
-const reaz = {
+My focus is on **Flutter app architecture**, **REST API integration**, **payment systems**, **real-time mobile features**, and **Play Store production deployment**.
+
+**Currently:** Flutter Developer 🚀
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me.
+
+```dart
+const ebrahim = {
   pronouns: "He/Him",
 
+  role: "Flutter Developer",
+
   code: [
-    "Dart",
     "Flutter",
+    "Dart",
     "Java",
     "C++",
     "C Programming"
   ],
 
   askMeAbout: [
-    "Flutter Mobile App Development",
+    "Flutter App Development",
     "GetX State Management",
     "REST API Integration",
     "Firebase",
-    "Authentication Systems",
     "Payment Integration",
-    "Real-time Features",
-    "Clean App Architecture"
+    "Push Notifications",
+    "Play Store Publishing",
+    "Real-time Mobile Features"
+  ],
+
+  coreStack: [
+    "Flutter",
+    "Dart",
+    "Firebase",
+    "GetX",
+    "Provider",
+    "REST API",
+    "SQLite",
+    "Hive"
   ],
 
   technologies: {
     mobileDevelopment: {
       framework: ["Flutter"],
       language: ["Dart"],
-      stateManagement: ["GetX", "Provider"],
-      localStorage: ["Hive", "SharedPreferences"],
-      backendIntegration: ["REST API"],
+      stateManagement: [
+        "GetX",
+        "Provider"
+      ],
+      localStorage: [
+        "Hive",
+        "SharedPreferences",
+        "SQLite"
+      ],
+      backendIntegration: [
+        "REST API"
+      ],
       authentication: [
         "Firebase Authentication",
         "JWT Authentication"
       ],
-      payment: ["Stripe"],
-      notifications: ["Firebase FCM"],
-      realtime: ["Socket.io"],
-      maps: ["Google Maps"],
+      payment: [
+        "Stripe"
+      ],
+      notifications: [
+        "Firebase FCM"
+      ],
+      realtime: [
+        "Socket.io"
+      ],
+      maps: [
+        "Google Maps API"
+      ]
     },
 
-    databases: {
-      mobile: ["SQLite", "Hive", "SharedPreferences"],
-      cloud: ["Firebase Firestore"],
-    },
-
-    devTools: [
+    tools: [
       "Android Studio",
       "VS Code",
       "Git",
       "GitHub",
-      "Postman"
-    ],
+      "Postman",
+      "Firebase Console"
+    ]
   },
 
   currentLearning: [
     "Advanced Flutter Architecture",
-    "Clean Architecture",
-    "State Management",
     "Performance Optimization",
     "Flutter Animations",
+    "Clean Architecture",
     "Real-time Mobile Features"
   ],
 
-  projects: [
+  featuredProjects: [
+    "Confaero – Conference & Event Management Platform",
     "Music Streaming App",
     "Salon Booking App",
-    "Event Management App",
-    "Subscription-Based Apps",
-    "Real-time Mobile Applications"
+    "Marathon Zone – Marathon Management Platform",
+    "Haven Keys – Property Rental Platform",
+    "AI Chatbot Integration Projects"
   ],
 
   currentFocus:
-    "Building scalable, responsive, and production-ready Flutter mobile applications",
+    "Building scalable and production-ready Flutter applications",
 
   funFact:
-    "I love turning ideas into beautiful mobile applications using Flutter!";
+    "I love turning ideas into beautiful mobile applications using Flutter 🚀"
 };
-```
- 
+````
+
 🎯 **What I do:**
 
-- Build scalable Flutter mobile applications for Android & iOS
-- Create clean, responsive, and modern mobile app UI
-- Integrate REST APIs and backend services
-- Implement authentication and secure user workflows
-- Develop payment systems and subscription features
-- Build real-time communication features
-- Work with GetX for state management
-- Implement Firebase services and push notifications
-- Optimize app performance and maintain clean architecture
-- Publish apps to Play Store & App Store
- 
+* Build **cross-platform mobile applications** using Flutter
+* Create **clean, responsive UI/UX**
+* Integrate **REST APIs & backend services**
+* Implement **Firebase Authentication & Push Notifications**
+* Build **payment systems** with Stripe
+* Work with **GetX & Provider state management**
+* Develop **real-time mobile features**
+* Implement **Google Maps & location tracking**
+* Optimize app performance & architecture
+* Publish apps to **Play Store**
+
+---
+
+## 📌 Featured Projects
+
+### 🎟 Confaero
+
+A scalable **conference & event management platform** featuring:
+
+* Multi-role access management
+* QR attendee check-ins
+* Real-time communication
+* WebRTC-powered meetings
+* Scalable backend architecture
+
+---
+
+### 🎵 Music Streaming App
+
+A modern **music streaming platform** featuring:
+
+* Audio player functionality
+* Favorites system
+* Subscription support
+* Dynamic API integration
+* Real-time music playback
+
+---
+
+### 💇 Salon Booking App
+
+A complete **salon booking system** with:
+
+* Nearby salon search
+* Reviews & ratings
+* Appointment booking
+* Maps integration
+* User authentication
+
+---
+
+### 🏃 Marathon Zone
+
+A full-featured **marathon event management platform** with:
+
+* Event registration
+* Role-based access
+* Authentication system
+* Real-time features
+
+---
+
+### 🏡 Haven Keys
+
+A **property rental platform** featuring:
+
+* Property listing
+* Booking management
+* Role-based dashboards
+* Clean responsive UI
+
+---
+
+### 🤖 AI Chatbot Integration
+
+AI-powered chatbot system using:
+
+* Claude AI Integration
+* Smart replies
+* Automation workflow
+* Scalable chat features
+
+---
+
 🛠 Currently Working On:
- 
-- 🎟 Confaero – A scalable event and conference management SaaS platform featuring 9 role-based access levels (Super Admin, Organizer, Speaker, Volunteer, Exhibitor, Attendee, Abstract Reviewer, Sponsor, Staff).
-  The platform includes QR-based attendee check-ins, exhibitor lead collection, real-time communication, and WebRTC-powered video meeting capabilities for virtual sessions and event collaboration, built with a modular and scalable          backend architecture.
- 
-- 🤖 Replii.ca – An AI-powered email sending mini SaaS, focused on smart replies, automation, backend reliability, and scalable email workflows
- 
-- 🌐 TrueCrimeConsultants – A personal website for a lawyer, built with a clean, professional layout and backend support for content management and communication
- 
-- 🏡 Haven Keys – A property rental platform with backend-driven listings, role-based access, and management features
- 
-- 🔥 Marathon Zone – A full-stack marathon management system with authentication, roles, and real-time features
- 
-- 🌿 GreenCircle – A subscription-based SaaS platform with secure backend, payments, and scalability focus
- 
- 
+
+* 🎟 **Confaero** – Event & Conference Management SaaS Platform with role-based access, QR check-ins, WebRTC meetings, and real-time communication.
+
+* 🎵 **Music Streaming App** – Subscription-based music app with API integration and playback features.
+
+* 💇 **Salon Booking App** – Booking system with authentication, maps, and appointment management.
+
+* 🏃 **Marathon Zone** – Marathon management with authentication and event systems.
+
+* 🏡 **Haven Keys** – Property rental platform with scalable management features.
+
+* 🤖 **AI Chatbot Integration** – Smart chatbot system with Claude API.
+
+---
+
 📚 Learning Now:
 
-- Advanced Flutter Architecture
-- State Management (GetX & Provider)
-- Clean Architecture in Flutter
-- Firebase & Push Notifications
-- Performance Optimization
-- Flutter Animations
-- Real-time Features in Mobile Apps
- 
- 
-## 📫 Let’s connect:
- 
-- Email: ebrahim.cse.bu@gmail.com
-- WhatsApp: +8801795112198
- 
+* Advanced Flutter Architecture
+* Clean Architecture in Flutter
+* GetX & Provider State Management
+* Firebase & Push Notifications
+* Performance Optimization
+* Flutter Animations
+* Real-time Mobile Features
 
-
-
- 
- 
-<!-- <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=reazulislam1487&theme=gruvbox&no-frame=true&no-bg=true&title=Commit,Issues,Stars,PullRequest,Followers,Repositories&margin-w=15&margin-h=15&column=6%22 alt="GitHub Trophies" />
-</p> -->
- 
- 
 ---
+
+## 📫 Let’s Connect
+
+* 📧 **Email:** [ebrahim.cse.bu@gmail.com](mailto:ebrahim.cse.bu@gmail.com)
+* 📱 **WhatsApp:** +8801795112198
+* 💻 **GitHub:** https://github.com/ebrahim48
+
+---
+
+## 🌐 Socials
+
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github\&logoColor=white)](https://github.com/ebrahim48)
+
+---
+
+### 🖥️ My Dev Setup
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Laptop-Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6" />
+
+<img src="https://img.shields.io/badge/Editor-VS%20Code-555555.svg?&style=flat-square&logo=visual-studio-code&logoColor=007ACC" />
+
+<img src="https://img.shields.io/badge/IDE-Android%20Studio-555555.svg?&style=flat-square&logo=androidstudio&logoColor=3DDC84" />
+
+<img src="https://img.shields.io/badge/VCS-Git-555555.svg?&style=flat-square&logo=git&logoColor=F05032" />
+
+<img src="https://img.shields.io/badge/VCS-GitHub-555555.svg?&style=flat-square&logo=github&logoColor=white" />
+
+<img src="https://img.shields.io/badge/API-Postman-555555.svg?&style=flat-square&logo=postman&logoColor=FF6C37" />
+
+<img src="https://img.shields.io/badge/Design-Figma-555555.svg?&style=flat-square&logo=figma&logoColor=white" />
+
+</p>
+
+### ⚙️ Some Tools and Tech I Use
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,git,github,java,cpp,sqlite" />
+
+</p>
+
+---
+
+<h2 align="center">📊 My GitHub Statistics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ebrahim48&show_icons=true&count_private=true&theme=github_dark&hide_border=true&hide=prs,issues" width="48%" />
+
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app?user=ebrahim48&theme=dark&hide_border=true" width="48%" />
+</p>
+
+<h3 align="center">📚 Most Used Languages</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ebrahim48&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="40%" />
+</p>
+
+---
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ebrahim48&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Building beautiful mobile applications with Flutter 🚀**
+
+</div>
+```
